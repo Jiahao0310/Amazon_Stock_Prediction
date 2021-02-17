@@ -17,7 +17,29 @@ Polynomial Regression Model
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Deep Neural Network Model
+
+
+
+
+
+
+
+
+
 
 
 
@@ -31,13 +53,59 @@ Deep Neural Network Model
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 LSTM (Long Short Term Memory) Model:
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/69972187/108153432-28ba1600-70a9-11eb-940d-d97db88a8b5d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
